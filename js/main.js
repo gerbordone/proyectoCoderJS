@@ -1,8 +1,8 @@
 let productos = [];
 
 
-/* FETCHING */
-fetch("./js/productos.json")
+/* FETCH */
+fetch("productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
