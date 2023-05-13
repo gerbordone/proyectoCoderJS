@@ -1,0 +1,152 @@
+[
+    {
+        "id": "aceite1",
+        "titulo": "Aceite CBD 1",
+        "imagen": "./img/aceite1.jpg",
+        "categoria": {
+            "nombre": "Aceites",
+            "id": "aceites"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "aceite2",
+        "titulo": "Aceite CBD 2",
+        "imagen": "./img/aceite2.jpg",
+        "categoria": {
+            "nombre": "Aceites",
+            "id": "aceites"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "aceite3",
+        "titulo": "Aceite CBD 3",
+        "imagen": "./img/aceite3.jpg",
+        "categoria": {
+            "nombre": "Aceites",
+            "id": "aceites"
+        },
+        "precio": 24000
+    },
+    {
+        "id": "aceite4",
+        "titulo": "Aceite CBD 4",
+        "imagen": "./img/aceite4.jpg",
+        "categoria": {
+            "nombre": "Aceites",
+            "id": "aceites"
+        },
+        "precio": 26000
+    },
+    {
+        "id": "caramelo1",
+        "titulo": "Caramelos CBD 1",
+        "imagen": "./img/caramelo1.jpg",
+        "categoria": {
+            "nombre": "Caramelos",
+            "id": "caramelos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "caramelo2",
+        "titulo": "Caramelos CBD 2",
+        "imagen": "./img/caramelo2.jpg",
+        "categoria": {
+            "nombre": "Caramelos",
+            "id": "caramelos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "caramelo3",
+        "titulo": "Caramelos CBD 3",
+        "imagen": "./img/caramelo3.jpg",
+        "categoria": {
+            "nombre": "Caramelos",
+            "id": "caramelos"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "cogollo1",
+        "titulo": "Sweet Skunk CBD x1gr",
+        "imagen": "./img/cogollo1.jpg",
+        "categoria": {
+            "nombre": "Genéticas CBD",
+            "id": "geneticas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "cogollo2",
+        "titulo": "Blackberry Kush CBD x1gr",
+        "imagen": "./img/cogollo2.jpeg",
+        "categoria": {
+            "nombre": "Genéticas CBD",
+            "id": "geneticas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "cogollo3",
+        "titulo": "White Widow CBD x1gr",
+        "imagen": "./img/cogollo3.jpg",
+        "categoria": {
+            "nombre": "Genéticas CBD",
+            "id": "geneticas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "crema1",
+        "titulo": "Crema CBD 1",
+        "imagen": "./img/crema1.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "crema2",
+        "titulo": "Crema CBD 2",
+        "imagen": "./img/crema2.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "crema3",
+        "titulo": "Crema CBD 3",
+        "imagen": "./img/crema3.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "crema4",
+        "titulo": "Crema CBD 4",
+        "imagen": "./img/crema4.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "crema5",
+        "titulo": "Crema CBD 5",
+        "imagen": "./img/crema5.jpeg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "cremas"
+        },
+        "precio": 6000
+    }
+]
